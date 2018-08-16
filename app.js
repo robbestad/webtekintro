@@ -6,8 +6,8 @@ fetch("cats.json")
             let cardentry = document.createElement("div");
             let img = document.createElement("img");
             img.src=entry.imageUrl;
-            cardentry.append(img)
-            cards.append(cardentry)
+            cardentry.append(img);
+            cards.append(cardentry);
         })
 
     })
