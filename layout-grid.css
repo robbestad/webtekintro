@@ -9,20 +9,8 @@ header,
 footer {
     grid-column: 1 / -1;
     clear: both;
-    background-color: #8cffa0;
 }
 
-header {
-    background-color: #8ca0ff;
-}
-
-nav {
-    background-color: #ffa08c;
-}
-
-section {
-    background-color: #ffff64;
-}
 
 article>* {
     width: auto;
